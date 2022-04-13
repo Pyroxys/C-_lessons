@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\code\\C#-Learning\\EX1_calculation_of_average\\EX1_calculation_of_average\\EX1_calculation_of_average.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\C#-Learning\\CS_lessons\\Exercices\\EX1_calculation_of_average\\EX1_calculation_of_average\\EX1_calculation_of_average.csproj",
       "projectName": "EX1_calculation_of_average",
-      "projectPath": "C:\\Users\\admin\\Desktop\\code\\C#-Learning\\EX1_calculation_of_average\\EX1_calculation_of_average\\EX1_calculation_of_average.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\C#-Learning\\CS_lessons\\Exercices\\EX1_calculation_of_average\\EX1_calculation_of_average\\EX1_calculation_of_average.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\code\\C#-Learning\\EX1_calculation_of_average\\EX1_calculation_of_average\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\C#-Learning\\CS_lessons\\Exercices\\EX1_calculation_of_average\\EX1_calculation_of_average\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
