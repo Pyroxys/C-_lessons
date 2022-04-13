@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\bin\Debug\net6.0\EX2_Computer.exe
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\bin\Debug\net6.0\EX2_Computer.deps.json
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\bin\Debug\net6.0\EX2_Computer.runtimeconfig.json
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\bin\Debug\net6.0\EX2_Computer.dll
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\bin\Debug\net6.0\EX2_Computer.pdb
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.dll
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\refint\EX2_Computer.dll
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.pdb
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\EX2_Computer.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#-Learning\CS_lessons\Exercices\EX2_Computer\EX2_Computer\obj\Debug\net6.0\ref\EX2_Computer.dll
