@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EX1_calculation_of_average/1.0.0": {
+        "runtime": {
+          "EX1_calculation_of_average.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX1_calculation_of_average/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

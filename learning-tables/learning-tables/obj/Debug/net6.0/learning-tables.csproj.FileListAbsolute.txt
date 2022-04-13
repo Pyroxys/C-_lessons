@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\bin\Debug\net6.0\learning-tables.exe
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\bin\Debug\net6.0\learning-tables.deps.json
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\bin\Debug\net6.0\learning-tables.runtimeconfig.json
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\bin\Debug\net6.0\learning-tables.dll
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\bin\Debug\net6.0\learning-tables.pdb
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.AssemblyInfo.cs
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.dll
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\refint\learning-tables.dll
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.pdb
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\learning-tables.genruntimeconfig.cache
+C:\Users\admin\Desktop\code\C#-Learning\learning-tables\learning-tables\obj\Debug\net6.0\ref\learning-tables.dll

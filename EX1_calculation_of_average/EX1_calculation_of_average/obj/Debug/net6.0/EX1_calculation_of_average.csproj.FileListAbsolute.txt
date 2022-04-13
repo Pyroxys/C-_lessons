@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\bin\Debug\net6.0\EX1_calculation_of_average.exe
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\bin\Debug\net6.0\EX1_calculation_of_average.deps.json
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\bin\Debug\net6.0\EX1_calculation_of_average.runtimeconfig.json
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\bin\Debug\net6.0\EX1_calculation_of_average.dll
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\bin\Debug\net6.0\EX1_calculation_of_average.pdb
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.AssemblyInfo.cs
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.dll
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\refint\EX1_calculation_of_average.dll
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.pdb
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\EX1_calculation_of_average.genruntimeconfig.cache
+C:\Users\admin\Desktop\code\C#-Learning\EX1_calculation_of_average\EX1_calculation_of_average\obj\Debug\net6.0\ref\EX1_calculation_of_average.dll
